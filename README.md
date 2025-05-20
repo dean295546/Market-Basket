@@ -40,7 +40,7 @@ We analyze customer transaction data to:
 
 ## Example Output
 
-![Top Rules Screenshot](images/top_rules_screenshot.png)
+![Top Rules Screenshot](top_rules_screenshot.png)
 
 Let's take this example:
 
